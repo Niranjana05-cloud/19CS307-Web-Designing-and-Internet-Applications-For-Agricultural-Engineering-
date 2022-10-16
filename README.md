@@ -12,12 +12,15 @@ To Check IP Address, Domain Names, Speed, Connectivity of Internet.Installation 
 ![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/B.png)
 
 # nslookup
+![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/C.png)
 
 
 # ping
+![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/D.png)
 
 
 # tracert
+![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/E.png)
 
 
 # Speed Test three diffeent times a day
