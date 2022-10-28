@@ -24,7 +24,7 @@ To Check IP Address, Domain Names, Speed, Connectivity of Internet.Installation 
 
 
 # Speed Test three diffeent times a day
-![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/speed test 1)
+![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/speedtest1)
 
 
 # Connectivity of Internet
