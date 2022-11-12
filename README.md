@@ -28,7 +28,7 @@ To Check IP Address, Domain Names, Speed, Connectivity of Internet.Installation 
 
 
 # Connectivity of Internet
-
+![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/con.png)
 
 # Usage of various browsers
 
